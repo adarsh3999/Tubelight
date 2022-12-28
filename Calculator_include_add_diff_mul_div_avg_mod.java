@@ -1,5 +1,3 @@
-package Assignment_1_feb_28;
-
 import java.util.Scanner;
 
 public class Calculator_program_include_add_diff_mul_div_avg_mod 
